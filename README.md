@@ -46,7 +46,7 @@ and data validation. For these needs, check the following libraries:
 
 [Scrapy](http://scrapy.org/) is a much more mature and comprehensive
 framework for developing scrapers. On the other hand, it requires you to
-develop scrapers within it's class system. This can be too heavyweight
+develop scrapers within its class system. This can be too heavyweight
 for a simple script to grab data off a web site.
 
 ### Credits and license
